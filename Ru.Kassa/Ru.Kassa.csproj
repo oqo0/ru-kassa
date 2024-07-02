@@ -1,7 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
+        <PackageId>oqo0.Ru.Kassa</PackageId>
+        <Authors>oqo0</Authors>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
     <ItemGroup>
